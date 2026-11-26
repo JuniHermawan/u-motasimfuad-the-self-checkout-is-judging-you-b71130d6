@@ -9,7 +9,9 @@ import os
 
 # The line is held as its three beats so the basket, the machine's
 # verdict and the sting stay separately readable; the entry text is
-# their join, unchanged.
+# their join, unchanged. Three short sentences, each doing one job:
+# the basket sets the scene, the verdict is the machine talking,
+# and the sting lands on the last word.
 BASKET = "Twelve yoghurts and a single banana."
 VERDICT = "I ran the numbers."
 STING = "This is a cry for help."
